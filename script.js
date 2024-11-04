@@ -1,5 +1,5 @@
 //user github
-let githubUser = 'BangSeeD'
+let githubUser = 'bangseed'
 let repo = 'Images'
 let imgFolder = 'images'
 

@@ -1,6 +1,6 @@
 let githubUser = 'BangSeeD'
 let repo = 'Images'
-let imgFolder = 'images'
+let imgFolder = 'image'
 
 async function login() {
     const username = document.getElementById('username').value;
